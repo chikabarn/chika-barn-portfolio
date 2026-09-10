@@ -218,8 +218,6 @@ p { margin: 0; }
 
 .section-block {
   position: relative;
-  max-width: var(--content-max);
-  margin: 0 auto;
   padding: 72px var(--edge) 88px;
   border-bottom: 1px solid var(--line);
   overflow: hidden;
