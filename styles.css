@@ -140,8 +140,8 @@ p { margin: 0; }
 }
 
 .hero-copy h1 {
-  font-size: clamp(42px, 4.4vw, 62px);
-  line-height: 1.08;
+  font-size: clamp(52px, 5.6vw, 82px);
+  line-height: 1.05;
   letter-spacing: -0.01em;
   margin-bottom: 24px;
 }
