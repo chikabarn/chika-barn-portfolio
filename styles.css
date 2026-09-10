@@ -347,6 +347,8 @@ p { margin: 0; }
 .stat {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  text-align: center;
   gap: 8px;
   padding-top: 20px;
   border-top: 1px solid var(--dark-line);
